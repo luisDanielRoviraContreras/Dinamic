@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="805" height="511" viewBox="0 0 805 511">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="CARD" width="805" height="511" rx="35" transform="translate(5011 1399)" fill="#ffdbd3"/>
+    </clipPath>
+  </defs>
+  <g id="_04_-_DESIGN_CARD" data-name="04 - DESIGN CARD" transform="translate(-5011 -1399)">
+    <g id="CARD-2" data-name="CARD">
+      <rect id="CARD-3" data-name="CARD" width="805" height="511" rx="35" transform="translate(5011 1399)" fill="#ffdbd3"/>
+      <g id="Clip" clip-path="url(#clip-path)">
+        <circle id="SHAPE" cx="435" cy="435" r="435" transform="translate(4689 1336)" fill="#f75b46"/>
+        <circle id="SHAPE-2" data-name="SHAPE" cx="235" cy="235" r="235" transform="translate(5561 1249)" fill="#4a1ed9"/>
+      </g>
+    </g>
+  </g>
+</svg>

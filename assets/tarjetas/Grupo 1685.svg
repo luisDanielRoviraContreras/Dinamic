@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="805.06" height="510.97" viewBox="0 0 805.06 510.97">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="CARD" width="805.06" height="510.97" rx="50" transform="translate(2104.16 2558.25)" fill="#4d51d7"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1685" data-name="Grupo 1685" transform="translate(-88 -624)">
+    <g id="Grupo_1664" data-name="Grupo 1664">
+      <g id="_57_-_DESIGN_CARD" data-name="57 - DESIGN CARD" transform="translate(-2016.16 -1934.25)">
+        <g id="CARD-2" data-name="CARD">
+          <path id="CARD-3" data-name="CARD" d="M50,0H755.06a50,50,0,0,1,50,50V460.97a50,50,0,0,1-50,50H50a50,50,0,0,1-50-50V50A50,50,0,0,1,50,0Z" transform="translate(2104.16 2558.25)" fill="#fe2d38"/>
+          <g id="Clip" clip-path="url(#clip-path)">
+            <path id="SHAPE" d="M2560.947,2441.187c-40.919,77.834-142.071,125.934-163.259,213.042-54.226,223.155,273.326,218.194,343.548,371.043,71.377,155.384-55.144,290.585-184.667,361.558-104.559,57.292-222.511,59.638-319.952,21.884-181.913-70.477-369.64-184.923-408.966-384.072-33.333-168.738,88.707-299.167,235.895-402.559,57-40.04,126.185-69.456,190.077-95.171,60.234-24.21,116.9-73.522,173.657-106,31.648-18.105,138.032-95.9,145.5-33.161C2574.942,2405.986,2570.062,2423.864,2560.947,2441.187Z" fill="#5d1754"/>
+            <path id="SHAPE-2" data-name="SHAPE" d="M2433.453,2274.031c-46.849,78.221-154.584,110.937-181.466,203.545-68.805,237.257,271.62,299.194,335.984,483.811,65.422,187.68-73.534,312.134-212.013,364.469-111.787,42.245-234.408,20.565-333.48-41.532-184.962-115.921-373.5-281.99-403.186-511.789-25.167-194.711,108.87-314.775,267.506-399.561,61.431-32.837,134.926-51.335,202.715-66.8,63.906-14.546,125.516-57.773,186.271-82.238,33.878-13.639,148.708-78.339,152.95-6.953C2449.958,2237.726,2443.89,2256.624,2433.453,2274.031Z" fill="#ffa400"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_1661" data-name="Grupo 1661" transform="translate(-863)">
+        <text id="S_._83402_83" data-name="S/. 83402,83" transform="translate(1200 1064)" fill="#fff" font-size="61" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-185.623" y="0">S/. 83402,83</tspan></text>
+        <text id="_4498" data-name="4498" transform="translate(1068 958)" fill="#fff" font-size="41" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.394" y="0">4498</tspan></text>
+        <text id="_2900" data-name="2900" transform="translate(1258 957)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-48.38" y="0">2900</tspan></text>
+        <text id="_8080" data-name="8080" transform="translate(1447 958)" fill="#fff" font-size="41" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.414" y="0">8080</tspan></text>
+        <text id="_5566" data-name="5566" transform="translate(1640 958)" fill="#fff" font-size="41" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.127" y="0">5566</tspan></text>
+        <g id="Grupo_1514" data-name="Grupo 1514" transform="translate(1016.514 677.611)">
+          <rect id="Rectángulo_814" data-name="Rectángulo 814" width="108" height="82" rx="20" transform="translate(0.486 0.389)" fill="rgba(255,255,255,0.2)"/>
+          <g id="Grupo_1513" data-name="Grupo 1513" transform="translate(23.225 18.064)">
+            <line id="Línea_19" data-name="Línea 19" y2="34.175" transform="translate(18.403 13.144)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_20" data-name="Línea 20" y2="47.319" transform="translate(34.051)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_23" data-name="Línea 23" x1="18.402" transform="translate(0 13.144)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_21" data-name="Línea 21" x1="15.773" transform="translate(0 34.175)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_24" data-name="Línea 24" x2="27.192" transform="translate(35.777 13.144)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_22" data-name="Línea 22" x2="27.192" transform="translate(35.777 34.175)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+          </g>
+        </g>
+        <path id="Icon_awesome-wifi" data-name="Icon awesome-wifi" d="M73.753,14.274a54.011,54.011,0,0,0-73.162,0,1.846,1.846,0,0,0-.041,2.669L4.528,20.89a1.886,1.886,0,0,0,2.6.044,44.568,44.568,0,0,1,60.085,0,1.887,1.887,0,0,0,2.6-.044L73.8,16.944a1.847,1.847,0,0,0-.042-2.669Zm-36.581,22.9a7.434,7.434,0,1,0,7.434,7.434A7.434,7.434,0,0,0,37.172,37.172Zm23.543-9.71a35.662,35.662,0,0,0-47.086,0,1.836,1.836,0,0,0-.066,2.689l4,3.948a1.9,1.9,0,0,0,2.561.093,26.163,26.163,0,0,1,34.093,0,1.9,1.9,0,0,0,2.561-.093l4-3.948A1.836,1.836,0,0,0,60.715,27.462Z" transform="translate(1690.466 1007.923) rotate(90)" fill="#fff"/>
+        <path id="Icon_simple-visa" data-name="Icon simple-visa" d="M119.782,2.067A34.271,34.271,0,0,0,107.835,0C94.651,0,85.348,6.647,85.279,16.17c-.082,7,6.619,10.945,11.68,13.293,5.2,2.4,6.935,3.914,6.921,6.077-.034,3.275-4.154,4.758-7.979,4.758a28.225,28.225,0,0,1-12.572-2.575l-1.641-.762L79.827,47.933c3.2,1.339,8.967,2.486,14.934,2.575,14.014,0,23.174-6.6,23.283-16.747.11-5.582-3.5-9.819-11.13-13.307-4.628-2.266-7.512-3.783-7.512-6.084,0-2.032,2.465-4.2,7.615-4.2a24.445,24.445,0,0,1,9.99,1.875l1.236.556L120.1,2l-.323.069ZM154,.9H143.7c-3.207,0-5.6.872-7.01,4.058L116.877,49.822h14.014l2.8-7.347,17.1.014c.419,1.717,1.648,7.333,1.648,7.333H164.79ZM66.328.488H79.669l-8.343,48.95H57.979L66.328.474ZM32.416,27.465l1.387,6.8L46.855.9H60.993L39.975,49.753h-14.1L14.337,8.377A2.732,2.732,0,0,0,13.1,6.75,56.381,56.381,0,0,0,0,1.9L.172.865h21.5c2.911.11,5.26,1.03,6.063,4.147l4.683,22.473v-.021Zm105.109,4.992,5.321-13.691c-.069.137,1.1-2.829,1.771-4.669l.913,4.223,3.083,14.124H137.524v.014Z" transform="translate(1525.213 694)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg id="Pay_with_cash" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="111.429" height="152.488" viewBox="0 0 111.429 152.488">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f94ff"/>
+      <stop offset="1" stop-color="#3f94ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.11" y1="0.323" x2="1" y2="1.049" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group" transform="translate(0 0)">
+    <path id="Shape" d="M103.389,7.228V126.142a6.432,6.432,0,0,1-6.428,6.428H45.428A6.432,6.432,0,0,1,39,126.142V7.228A6.432,6.432,0,0,1,45.428.8H96.961A6.432,6.432,0,0,1,103.389,7.228Z" transform="translate(8.041 -0.8)" opacity="0.33" fill="url(#linear-gradient)"/>
+    <path id="Shape-2" data-name="Shape" d="M46.8,121.065V14.9a6.078,6.078,0,0,0,6.1-6.1H88.248a6.078,6.078,0,0,0,6.1,6.1V114.969a6.078,6.078,0,0,0-6.1,6.1H46.8" transform="translate(8.885 0.066)" opacity="0.6" fill="url(#linear-gradient-2)"/>
+    <ellipse id="Oval" cx="17.51" cy="15.183" rx="17.51" ry="15.183" transform="translate(61.669 48.43)" fill="#fff" opacity="0.26"/>
+    <path id="Shape-3" data-name="Shape" d="M68.125,99.361A3.265,3.265,0,0,1,64.8,96.037V87.725a3.325,3.325,0,1,1,6.649,0v8.312A3.409,3.409,0,0,1,68.125,99.361Z" transform="translate(10.833 8.249)" fill="#fff" opacity="0.26"/>
+    <path id="Shape-4" data-name="Shape" d="M68.125,36.65A3.265,3.265,0,0,1,64.8,33.326v-8.2a3.325,3.325,0,0,1,6.649,0v8.2A3.334,3.334,0,0,1,68.125,36.65Z" transform="translate(10.833 1.473)" fill="#fff" opacity="0.26"/>
+    <path id="Shape-5" data-name="Shape" d="M47.241,46.8V79.9C34.583,93.983,33.057,94.173,32.467,102.831c-.1,1.374-.173,4.108-.381,7.862-.121,1.455.849,2.91,7.42,4.787l6.765,2a3.433,3.433,0,0,0,4.365-2.425c2.3-5.577.606-1.334,8.729-20.974a24.4,24.4,0,0,1,1.7-3.031A13.029,13.029,0,0,1,76.7,87.294a6.4,6.4,0,0,1,3.637,5.819,6.158,6.158,0,0,1-.364,2.061c-21.58,62.68-40.327,71.894-63.739,71.838C13.4,167.005.2,165.25.2,150.4V100.63A19.189,19.189,0,0,1,5.9,87.051Z" transform="translate(-0.2 -14.524)" fill="#f9deba"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="807" height="506" viewBox="0 0 807 506">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.978" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9f9f"/>
+      <stop offset="1" stop-color="#ff5ad3"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1681" data-name="Grupo 1681" transform="translate(-2678 -626)">
+    <rect id="Rectángulo_1999" data-name="Rectángulo 1999" width="807" height="506" rx="50" transform="translate(2678 626)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_1675" data-name="Grupo 1675">
+      <g id="Grupo_1668" data-name="Grupo 1668" transform="translate(1728)">
+        <text id="S_._20205_96" data-name="S/. 20205,96" transform="translate(1200 1064)" fill="#fff" font-size="61" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-183.183" y="0">S/. 20205,96</tspan></text>
+        <text id="_4498" data-name="4498" transform="translate(1068 958)" fill="#fff" font-size="41" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.394" y="0">4498</tspan></text>
+        <text id="_2900" data-name="2900" transform="translate(1258 957)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-48.38" y="0">2900</tspan></text>
+        <text id="_8080" data-name="8080" transform="translate(1447 958)" fill="#fff" font-size="41" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.414" y="0">8080</tspan></text>
+        <text id="_5566" data-name="5566" transform="translate(1640 958)" fill="#fff" font-size="41" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.127" y="0">5566</tspan></text>
+        <g id="Grupo_1514" data-name="Grupo 1514" transform="translate(1016.514 677.611)">
+          <rect id="Rectángulo_814" data-name="Rectángulo 814" width="108" height="82" rx="20" transform="translate(0.486 0.389)" fill="rgba(255,255,255,0.2)"/>
+          <g id="Grupo_1513" data-name="Grupo 1513" transform="translate(23.225 18.064)">
+            <line id="Línea_19" data-name="Línea 19" y2="34.175" transform="translate(18.403 13.144)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_20" data-name="Línea 20" y2="47.319" transform="translate(34.051)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_23" data-name="Línea 23" x1="18.402" transform="translate(0 13.144)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_21" data-name="Línea 21" x1="15.773" transform="translate(0 34.175)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_24" data-name="Línea 24" x2="27.192" transform="translate(35.777 13.144)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+            <line id="Línea_22" data-name="Línea 22" x2="27.192" transform="translate(35.777 34.175)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+          </g>
+        </g>
+        <path id="Icon_awesome-wifi" data-name="Icon awesome-wifi" d="M73.753,14.274a54.011,54.011,0,0,0-73.162,0,1.846,1.846,0,0,0-.041,2.669L4.528,20.89a1.886,1.886,0,0,0,2.6.044,44.568,44.568,0,0,1,60.085,0,1.887,1.887,0,0,0,2.6-.044L73.8,16.944a1.847,1.847,0,0,0-.042-2.669Zm-36.581,22.9a7.434,7.434,0,1,0,7.434,7.434A7.434,7.434,0,0,0,37.172,37.172Zm23.543-9.71a35.662,35.662,0,0,0-47.086,0,1.836,1.836,0,0,0-.066,2.689l4,3.948a1.9,1.9,0,0,0,2.561.093,26.163,26.163,0,0,1,34.093,0,1.9,1.9,0,0,0,2.561-.093l4-3.948A1.836,1.836,0,0,0,60.715,27.462Z" transform="translate(1690.466 1007.923) rotate(90)" fill="#fff"/>
+      </g>
+      <g id="Grupo_1670" data-name="Grupo 1670" transform="translate(3290.804 677.877)">
+        <circle id="Elipse_2" data-name="Elipse 2" cx="41.5" cy="41.5" r="41.5" transform="translate(0.197 0.123)" fill="#fff" opacity="0.25"/>
+        <circle id="Elipse_3" data-name="Elipse 3" cx="41.5" cy="41.5" r="41.5" transform="translate(45.197 0.123)" fill="#fff" opacity="0.15"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Receiving_money_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141.879" height="135.974" viewBox="0 0 141.879 135.974">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f94ff"/>
+      <stop offset="1" stop-color="#3f94ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.129" x2="0.31" y2="1.423" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Shape" d="M27.612,120.1v.581h0v.581A1.939,1.939,0,0,1,27.612,120.1Z" transform="translate(-18.565 -29.032)" fill="#ddecfe"/>
+  <g id="Group" transform="translate(8.118 77.565)">
+    <path id="Shape-2" data-name="Shape" d="M134.556,32.716a8.03,8.03,0,0,1-5.346,7.786L97.718,51.309c-28.82,9.878-20.569,9.878-49.156.232C36.36,47.474,43.1,51.077,6.61,23.071a12.074,12.074,0,0,1-5.462-7.437h0a2.364,2.364,0,0,1-.116-.581A15.817,15.817,0,0,1,.8,12.612,12.32,12.32,0,0,1,19.51,2.153l35.327,21.5V21.676a9.916,9.916,0,0,1,0-1.859v.7a.871.871,0,0,0,.116.581c.116-.349.116-.813.232-1.162A12.546,12.546,0,0,1,58.44,8.2a12.4,12.4,0,0,1,8.716-3.6l57.164,3.252c8.145.467,9.656,1.978,9.772,9.648Z" transform="translate(-0.8 -0.339)" fill="#f9deba"/>
+    <path id="Shape-3" data-name="Shape" d="M59.615,27.258H91.457L58.918,29.583A12.324,12.324,0,0,1,46.6,17.265a12.888,12.888,0,0,1,.93-4.765,17.337,17.337,0,0,0-.232,2.44A12.251,12.251,0,0,0,59.615,27.258Z" transform="translate(6.624 1.632)" fill="#efc893"/>
+  </g>
+  <path id="Shape-4" data-name="Shape" d="M130.481,99.243H20.526A5.7,5.7,0,0,1,14.8,93.518V44.426A5.7,5.7,0,0,1,20.526,38.7H130.481a5.7,5.7,0,0,1,5.726,5.726V93.518A5.77,5.77,0,0,1,130.481,99.243Z" transform="translate(-14.8 -38.7)" opacity="0.33" fill="url(#linear-gradient)"/>
+  <path id="Shape-5" data-name="Shape" d="M24.3,46.3h97.338a5.7,5.7,0,0,0,5.726,5.726V85.319a5.7,5.7,0,0,0-5.726,5.726H30.026A5.7,5.7,0,0,0,24.3,85.319V46.3" transform="translate(-14.227 -38.242)" opacity="0.6" fill="url(#linear-gradient-2)"/>
+  <ellipse id="Oval" cx="14.951" cy="17.919" rx="14.951" ry="17.919" transform="translate(47.502 12.936)" fill="#fff" opacity="0.26"/>
+  <path id="Shape-6" data-name="Shape" d="M46.333,70.15H38.275a3.075,3.075,0,1,1,0-6.15h8.058a3.075,3.075,0,1,1,0,6.15Z" transform="translate(-13.569 -37.174)" fill="#fff" opacity="0.26"/>
+  <path id="Shape-7" data-name="Shape" d="M108.609,70.15h-7.634a3.075,3.075,0,1,1,0-6.15h7.634a3.075,3.075,0,1,1,0,6.15Z" transform="translate(-9.787 -37.174)" fill="#fff" opacity="0.26"/>
+</svg>
